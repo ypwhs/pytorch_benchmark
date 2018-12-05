@@ -142,7 +142,7 @@ python setup.py bdist_wheel
 
 ```sh
 pip uninstall torch
-pip install dist/torch-1.0.0a0+5c89190-cp36-cp36m-linux_x86_64.whl
+pip install dist/torch-1.0.0a0+ff608a9-cp36-cp36m-linux_x86_64.whl
 ```
 
 ### 疑难杂症
